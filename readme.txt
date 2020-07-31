@@ -1,0 +1,1 @@
+The project brings an insight into the fundamentals of the Recommender systems, coded in python this is the basics foundation of every recommender system. Dealt with a movie recommender system in this case which can be further extended to any sort of datasets.
